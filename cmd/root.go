@@ -14,7 +14,7 @@ var cfgFile string
 var rootCmd = &cobra.Command{
 	Use:   "simplifier",
 	Short: "Translates text to ELI5",
-	Long: `Simplifier is a tool for generating "ELI5-ized"
+	Long: `Simplifier is a tool for generating "ELI5ized"
 pieces of text from more complicated inputs.`,
 }
 
